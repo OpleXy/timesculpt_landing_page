@@ -1,0 +1,82 @@
+npm install
+This is the current filestructure of TimeSculpt, react vite@latest:
+
+.
+..
+.git
+.gitignore
+README.md
+eslint.config.js
+index.html
+node_modules
+package-lock.json
+package.json
+public
+src
+structure_full.txt
+vite.config.js
+watch-structure.sh
+
+public
+├── ai.png
+├── background.png
+├── generer.png
+├── interaktiv.png
+├── lagre.png
+├── timesculpt_logo_page.svg
+├── timesculpt_logo_w_text.svg
+└── utforsk.png
+src
+├── App.jsx
+├── assets
+│   ├── background.png
+│   ├── timesculpt_logo_page.svg
+│   ├── timesculpt_logo_w_text.svg
+│   ├── ts_logo_no_bg.png
+│   └── ts_logo_page.png
+├── components
+│   ├── CTA.jsx
+│   ├── FAQ.jsx
+│   ├── Features.jsx
+│   ├── Footer.jsx
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   ├── HowItWorks.jsx
+│   └── Testimonials.jsx
+├── index.css
+├── main.jsx
+└── styles
+    ├── App.css
+    └── components.css
+
+3 directories, 18 files
+
+Line Counts Per File:
+5530 public/generer.png
+2140 src/assets/background.png
+2140 public/background.png
+1038 public/interaktiv.png
+838 public/ai.png
+577 src/styles/components.css
+385 public/lagre.png
+294 src/styles/App.css
+246 public/utforsk.png
+95 src/assets/ts_logo_page.png
+80 src/assets/ts_logo_no_bg.png
+77 src/components/Features.jsx
+75 src/components/Footer.jsx
+75 src/App.jsx
+69 src/components/FAQ.jsx
+68 src/index.css
+67 src/components/Header.jsx
+51 src/components/HowItWorks.jsx
+38 src/components/Hero.jsx
+37 src/components/Testimonials.jsx
+35 src/components/CTA.jsx
+9 src/main.jsx
+7 public/.htaccess
+0 src/assets/timesculpt_logo_w_text.svg
+0 src/assets/timesculpt_logo_page.svg
+0 public/timesculpt_logo_w_text.svg
+0 public/timesculpt_logo_page.svg
+
